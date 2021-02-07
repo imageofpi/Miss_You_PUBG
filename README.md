@@ -16,4 +16,4 @@ Contents:
 - Bot Spawn Spots visualization
 - Hacker Detection using KMeans and PCA
 
-Erangel Map is used for visualization of heatmaps but the dataset includes Miramar maps data as well.
+Erangel Map is used for visualization of heatmaps but the dataset includes Miramar map's data as well.
